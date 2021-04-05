@@ -34,8 +34,11 @@ pip install -r requirements.txt
 # 使用
 
 复制 `config.yaml.example` 重命名为 `config.yaml`
+
 编辑 `config.yaml`文件：
+
   修改 `TOKEN` 值为 pushplus 的 token
+
   修改 想要执行签到任务的站点cookie
 
 ```
@@ -44,6 +47,6 @@ cd ~/PThelper && ~/PThelper/env/bin/python attendance.py
 ```
 
 ```
-定时任务：每天08:30执行脚本
+# 定时任务：每天08:30执行脚本
 30 8 * * * cd ~/PThelper && ~/PThelper/env/bin/python attendance.py
 ```
