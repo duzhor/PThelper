@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 编辑 `config.yaml`文件：
 
-  修改 `TOKEN` 值为 pushplus 的 token
+  修改 `TOKEN` 值为 [pushplus](https://pushplus.hxtrip.com/ "pushplus") 的 token
 
   修改 想要执行签到任务的站点cookie
 
