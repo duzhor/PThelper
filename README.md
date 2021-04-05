@@ -2,7 +2,7 @@
 
 # 安装
 
-目前只支持example中预置的站点
+目前只支持example中预置的站点。有签到功能的站点尝试签到，没有签到功能的站点则尝试访问首页。
 
 本脚本支持将执行结果推送至 [pushplus](https://pushplus.hxtrip.com/ "pushplus")
 
