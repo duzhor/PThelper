@@ -2,6 +2,7 @@
 
 # 安装
 
+本脚本支持将执行结果推送至 [pushplus](https://pushplus.hxtrip.com/ "pushplus")
 本脚本依赖于python3，请先建立好运行环境
 
 ```
